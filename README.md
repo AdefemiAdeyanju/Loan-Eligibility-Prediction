@@ -33,10 +33,6 @@ The project is organized as follows:
 ## Evaluation Metrics
 - Evaluated models using Mean Absolute Error (MAE).
 
-## Results and Visualizations
-![Results](loan.jpg)
-- Visualized feature importances for the Gradient Boosting Model.
-
 ## Acknowledgments
 - Used the `scikit-learn` library for machine learning models.
 
