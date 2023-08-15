@@ -35,7 +35,7 @@ The project is organized as follows:
 - Evaluated models using Mean Absolute Error (MAE).
 
 ## Results and Visualizations
-![Results](images/load.jpg)
+![Results](loan.jpg)
 - Visualized feature importances for the Gradient Boosting Model.
 
 ## Acknowledgments
