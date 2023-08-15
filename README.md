@@ -1,7 +1,7 @@
 # Loan-Eligibility-Prediction
 A machine learning algorithm  to test the ability of users to borrow loan
 
-(loan.jpg)
+![Loan-Eligibility-Prediction](loan.jpg)
 Loan-Eligibility-Prediction using machine learning models.
 
 ## Table of Contents
